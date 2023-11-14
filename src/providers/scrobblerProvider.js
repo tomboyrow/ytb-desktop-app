@@ -4,8 +4,8 @@ const settingsProvider = require('./settingsProvider')
 const http = require('http')
 const Base64 = require('js-base64').Base64
 
-const apiKey = '9ab417e8b808ed071223a1b4b3c29642'
-const apiSecret = '9d8830c167627e65dac63786be101964'
+const apiKey = 'a86f38a4614709b31a1626e9b8cbe400'
+const apiSecret = '1869527d73344572c5aa71c31b25c22a'
 
 let Scrobbler, userLogin
 

@@ -58,7 +58,7 @@
         "postscribe": "^2.0.8",
         "qrcode-generator": "^1.4.4",
         "register-scheme": "0.0.2",
-        "scribble": "github:p-js#a2b37f585c5382863319115db36201399477ed43",
+        "scribble": "0.0.5",
         "socket.io": "^2.3.0",
         "uuid": "^8.3.2",
         "ws": "^7.4.2"

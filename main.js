@@ -2201,7 +2201,7 @@ function writeLog(log) {
             break
     }
 }
-writeLog('dsgsdg');
+writeLog('dsgsdg')
 ipcMain.on('log', (dataMain, dataRenderer) => {
     if (dataMain.type !== undefined) writeLog(dataMain)
     else writeLog(dataRenderer)
